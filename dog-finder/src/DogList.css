@@ -1,0 +1,15 @@
+.DogList img {
+    width: 200px;
+    border-radius: 100%;
+    border: 8px solid slateblue;
+    box-shadow: 0 0 10px #9e9e9e;
+}
+.h1{
+    font-size: 20px;
+    font-display: center;
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
